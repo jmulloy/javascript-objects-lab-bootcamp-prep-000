@@ -1,4 +1,4 @@
 var recipes = { foo: 'bar'}
-function updateObjectWithKeyAndValue() {
+function updateObjectWithKeyAndValue(object,key,value) {
   recipes.push('grape')
 }
