@@ -1,4 +1,4 @@
-var recipes = { pizza: 'cheese'};
+var recipes = { {pizza: 'cheese'}};
 function updateObjectWithKeyAndValue(object,key,value) {
-  recipes.push('grape');
+  recipes.push('');
 }
